@@ -1,0 +1,43 @@
+{
+    "name": "NamSor",
+    "description": "<p>NamSor&trade; Applied Onomastics is a European designer of name recognition software. Our mission is to help make sense of the Big Data and understand international flows of money, ideas and people. Our specialized data mining software recognizes the linguistic or cultural origin of personal names in any alphabet \/ language, with fine grain and high accuracy. Names are meaningful : we use sociolinguistics to extract their semantics and deliver actionable intelligence.&nbsp;<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/NamSor-Logo.png",
+    "tags": [
+        "api provider",
+        "have api",
+        "names",
+        "sex",
+        "target"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/namsor\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "NamSor",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/NamSor-Logo.png",
+            "humanURL": "http:\/\/namesorts.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/namsor-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/NamSor_com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/namesorts.com"
+        }
+    ]
+}
